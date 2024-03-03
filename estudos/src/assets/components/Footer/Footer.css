@@ -1,0 +1,15 @@
+
+
+footer {
+    height: 5em;
+
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    color:  white;
+
+}
+
+ul {
+    list-style: none;
+}
